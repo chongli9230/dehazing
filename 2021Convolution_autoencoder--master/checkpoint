@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\JZYY\\code\\2021Convolution_autoencoder--master\\Endoscope_model.tflearn"
+all_model_checkpoint_paths: "F:\\JZYY\\code\\2021Convolution_autoencoder--master\\Endoscope_model.tflearn"
